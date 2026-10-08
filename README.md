@@ -4,7 +4,7 @@
 
 Mac'in tozlanıyor. Tozkoparan, ekranına yavaş yavaş toz yağdıran ve onu temizlemen için sana bir robot süpürge veren küçük, şakacı bir menü çubuğu uygulaması.
 
-**[⬇︎ Tozkoparan'ı indir (macOS 14+, Apple Silicon ve Intel)](https://github.com/sezkus/Tozkoparan/releases/latest/download/Tozkoparan-0.1.4.zip)**
+**[⬇︎ Tozkoparan'ı indir (macOS 14+, Apple Silicon ve Intel)](https://github.com/sezkus/Tozkoparan/releases/latest/download/Tozkoparan-0.1.5.zip)**
 
 ![Tozkoparan](onizleme/tanitim/1-tanitim-tr.jpg)
 
@@ -41,7 +41,7 @@ Copyright (c) 2026 Sezer Kuşku. Tozkoparan ücretsizdir ve [PolyForm Strict 1.0
 
 Your Mac is getting dusty. Tozkoparan is a small, playful menu bar app that slowly covers your screen in dust and gives you a robot vacuum to clean it up.
 
-**[⬇︎ Download for macOS 14+ (Apple Silicon & Intel)](https://github.com/sezkus/Tozkoparan/releases/latest/download/Tozkoparan-0.1.4.zip)**: notarized by Apple, unzip and run.
+**[⬇︎ Download for macOS 14+ (Apple Silicon & Intel)](https://github.com/sezkus/Tozkoparan/releases/latest/download/Tozkoparan-0.1.5.zip)**: notarized by Apple, unzip and run.
 
 ![Tozkoparan](onizleme/tanitim/1-tanitim-en.jpg)
 
